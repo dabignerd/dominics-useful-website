@@ -20,7 +20,8 @@ a:visited {
     padding-left: 10px;
 }
 
-#link:hover, #gmail:hover {
+#link:hover,
+#gmail:hover {
     color: red;
     text-decoration: none;
 }
